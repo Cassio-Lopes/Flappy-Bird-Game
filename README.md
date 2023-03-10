@@ -2,6 +2,10 @@
 <img src="https://user-images.githubusercontent.com/86318311/224435563-3e90a7bc-c752-4d98-8dfe-05046344d716.png"/>
 </p>
 
+![Animação ](https://user-images.githubusercontent.com/86318311/224450758-e2ec1867-ac79-4350-8f3b-2f3871e7f3d1.gif)
+
+
+
 <h1 align="center">🛠 Tecnologias</h1>
 
 <p align="center">As seguintes ferramentas foram usadas na construção do projeto:                           
