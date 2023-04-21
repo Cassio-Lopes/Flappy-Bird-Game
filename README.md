@@ -23,7 +23,7 @@
 
 
 ### Como jogar
-<li>Clone o repositório em sua máquina local usando o comando git clone https://github.com/seunome/formulario-responsivo.</li>
+<li>Clone o repositório em sua máquina local usando o comando git clone https://github.com/Cassio-Lopes/Flappy-Bird-Game.git</li>
 <li>Navegue até o diretório do projeto usando o comando cd formulario-responsivo.</li>
 <li>Abra o arquivo index.html em seu navegador de escolha.</li>
 <li>Pressione a barra de espaço para fazer o pássaro voar.</li>
